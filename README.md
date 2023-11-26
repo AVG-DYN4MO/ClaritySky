@@ -1,2 +1,2 @@
 # ClaritySky
-This is a basic weather forecasting webapp built using free API OpenWeatherMap
+Welcome to ClaritySky, your go-to destination for real-time weather updates! Immerse yourself in a seamless experience that provides accurate and up-to-the-minute information on temperature and humidity. Navigate effortlessly through our user-friendly interface to access the current weather conditions in your location. ClaritySky delivers precise meteorological data, ensuring you stay well-informed about the atmospheric nuances around you. Whether you're planning your day or simply curious about the climate, trust ClaritySky to bring you clarity in every forecast.
